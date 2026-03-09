@@ -1,10 +1,14 @@
 * magit-browse-commit
 
+[[https://melpa.org/#/magit-browse-commit][file:https://melpa.org/packages/magit-browse-commit-badge.svg]]
+
 Open the pull request or merge request in the =magit-blame= lines. Inspired by https://techlife.cookpad.com/entry/2015/11/17/151426.
 
 ** Install
+
 #+begin_src emacs-lisp
 (use-package magit-browse-commit
+  :ensure t
   :config
   (setq magit-browse-commit-gitlab-host "your private gitlab host"))
 #+end_src

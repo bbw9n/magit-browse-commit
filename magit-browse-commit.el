@@ -2,7 +2,7 @@
 
 ;; Copyright (C) 2025 bbw9n
 
-;; Author: Angeldswang <bbw9nio@gmail.com>
+;; Author: bbw9n <bbw9nio@gmail.com>
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "25.1") (magit "3.0.0"))
 ;; Keywords: vc, tools, git
